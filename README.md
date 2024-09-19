@@ -1,21 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ainur Rafi</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-### Hi there, I'm Ainur Rafi! 👋
+- 🔭 I’m currently working on **building web**
 
-<!--
-**ainurrafi2123/ainurrafi2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+- 🌱 I’m currently learning **Java,PHP,Laravel**
 
-- 🔭 I’m currently working on building **web applications** using PHP, Laravel, and Java.
-- 🌱 I’m currently learning more about **MVC frameworks**, and sharpening my **front-end skills** with **Bootstrap 5**.
-- 👯 I’m looking to collaborate on open source projects related to **web development** and **backend technologies**.
-- 🤔 I’m looking for help with advanced **OOP concepts** and **design patterns**.
-- 💬 Ask me about PHP, Laravel, or how to start with **MVC** in web development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/username) | [Email](mailto:email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving puzzles and creating **efficient code** solutions!
+- 💬 Ask me about **PHP,Laravel**
 
----
+- 📫 How to reach me **ainurrafi2123@gmail.com**
 
-⭐️ **Check out my repositories** to see what I'm working on!
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/rafi_fv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi_fv" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Ryfvvyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ryfvvyt" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
